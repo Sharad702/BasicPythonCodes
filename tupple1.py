@@ -1,0 +1,9 @@
+t1=(1,2,3)
+#print(type(t))
+t2=(1,5,6)
+#print(t2)
+#t=(3,4,5)
+#print(t2)
+t3=t2+t1
+t3.sort()
+print(t3)

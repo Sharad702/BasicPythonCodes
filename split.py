@@ -1,0 +1,5 @@
+a=input("Enter the string")
+b=a.split("-")
+print(b)
+c=" ".join(b)
+print(c)
